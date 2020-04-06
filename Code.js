@@ -1,0 +1,10 @@
+function myFunction() {
+  let myDate = new Date();
+  console.log(myDate.toLocaleString());
+}
+
+
+
+
+
+
